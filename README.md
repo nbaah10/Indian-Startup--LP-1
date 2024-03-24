@@ -254,7 +254,7 @@ Here, you need to recursively install the packages in the `requirements.txt` fil
 🕵🏽‍♀️ **Victor Anim**                                   
 🕵🏽‍♀️ **Aluko Oluwadamilola**                        [GitHub Profile](https://github.com/damzking?tab=repositories)
 🕵🏽‍♀️ **Aminu Oluwarotimi Desmond**                  [GitHub Profile](https://github.com/bamzyyyy?tab=repositories)
-🕵🏽‍♀️ **Nana Kwame Frimpong Baah**
+🕵🏽‍♀️ **Nana Kwame Frimpong Baah**                   [GitHub Profile](https://github.com/nbaah10?tab=repositories)
 🕵🏽‍♀️ **Leticia Blay**
 🕵🏽‍♀️ **Richmond Tetteh**
 
